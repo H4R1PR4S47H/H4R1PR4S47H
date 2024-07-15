@@ -3,14 +3,15 @@
 
 
 Here are some ideas to get you started:
-
+- 😄 pronouns: ... He/Him
 - 👀 I’m interested in ... Full stack dev,Pentesting,Infosec.
 - 🌱 I’m currently learning ... vue.js
 - 🤝 I'm looking to collaborate on ... vue.js 
 - 👨‍💼 I'm looking for help with ... AWS
 - 💞️ Ask me about ... anything
 - 📫 How to reach me ... Instagram https://www.instagram.com/hari.jayram
-- 😄 pronouns: ... He/Him
+-                    ... LinkedIn https://www.linkedin.com/in/hariprasathjayaraman
+
 
 <!---
 hariJP/hariJP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
